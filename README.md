@@ -22,7 +22,7 @@ Recommendation Systems -
 2) Item-Item Based Approach
 
 ## Conclusion - 
-Thus, Naive Bayes Machine Learning Model was selected as final model which was integrated with User-User Based Recommendation System to build Sentiment Based Recommendation System
+Thus, Naive Bayes Machine Learning Model was selected as final model which was integrated with User-User Based Recommendation System to build Sentiment Based Product Recommendation System
 
 ## Contact
 Created by [@DataScientist365] - feel free to contact me!
